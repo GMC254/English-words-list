@@ -22,7 +22,7 @@ Contents of each file:
 
 Acronyms-
 
-		*Common acronyms and abbreviations.*
+*Common acronyms and abbreviations.*
 
 CommonDictionarywords-
 
